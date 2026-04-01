@@ -2,14 +2,13 @@
 # 🚀 Streamlit Data Science App Deployment (Render)
 
 This project demonstrates how to build and deploy a **Python Data Science / AI application using Streamlit** on **Render (free cloud platform)**.
-This is deployed at : https://document-q-a.onrender.com/
 
 ---
 
 ## 🌐 Live Application
 
 👉 Access the deployed app here:
-**https://your-app-name.onrender.com**
+**https://document-q-a.onrender.com/**
 
 > ⚠️ Note: The app may take 30–60 seconds to load if inactive (free tier sleep mode).
 
